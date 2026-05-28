@@ -5,15 +5,45 @@
 
 ---
 
-## 4.1 标题 ×3（A/B/C 三种风格）
+## 4.1 标题 ×3（A/B/C 三种风格 · SEO 优化版 · 60–70 字符甜蜜点）
 
-| 款 | 标题 | 字符 | 风格 |
+### SEO 关键词分层
+
+| 层级 | 关键词 | 用途 |
+|---|---|---|
+| 主关键词 | `fungus` / `fungi` / `mycelium` | YouTube 站内搜索 |
+| 次关键词 | `electricity` / `brainless` / `no brain` / `language` / `map` | 拉 CTR + 长尾搜索 |
+| 场景关键词 | `under your feet` / `your garden` / `without eyes` | POV 锁定 |
+| 权威关键词（C 款）| `scientists` / `2024 experiment` / `50 words` | 提升点击信任度 |
+
+### 三款标题
+
+| 款 | 标题 | 字符 | 风格 | SEO 命中 |
+|---|---|---|---|---|
+| **A** | `What Does the Fungus Beneath Your Feet Actually Know About You?` | 63 | 疑问句型 | 站内搜索"what do fungi know"+"fungus under feet" |
+| **B（主选）** | `The Fungus Under Your Feet Is Mapping Your Garden With Electricity` | 67 | 反常识陈述句 | 算法推荐 + 五个关键词同框（fungus/under your feet/mapping/garden/electricity）|
+| **C** | `Scientists Just Found a 50-Word "Language" in Fungi (No Brain Needed)` | 69 | 具体数字+权威感 | 科普订阅+Reddit r/science 转载式点击 |
+
+> 全部在 60–70 字符 SEO 甜蜜点 ✓
+> 禁用词扫描："amazing / shocking / unbelievable" 均未出现 ✓
+
+### 备选池（A/B 测试用）
+
+| | 标题 | 字符 | 主打 |
 |---|---|---|---|
-| **A** | `What Does the Fungus Beneath Your Feet Know?` | 45 | 疑问句型 |
-| **B** | `The Fungus Under Your Feet Is Mapping Your Garden` | 49 | 反常识陈述句 |
-| **C** | `How 9 Wood Blocks Proved Fungi Can See Shapes` | 45 | 具体数字 / 实验名 |
+| Alt 1 | `A Brainless Fungus Just Drew an Electrical Map of Your Garden` | 61 | "brainless"+"electrical map" |
+| Alt 2 | `Why the Fungus Under Your Lawn Has Its Own Electrical "Language"` | 64 | "under your lawn"+"language" |
+| Alt 3 | `The Hidden Mind Beneath Your Feet: How Fungi Map Without Eyes` | 61 | "hidden mind"+"without eyes" |
+| Alt 4 | `Fungi Don't Have Brains — But They Still Make Decisions in 50 Words` | 67 | "no brain"+"decisions"+"50 words" |
+| Alt 5 | `What the Mycelium Under Your Garden Knows That You Don't` | 56 | "mycelium"+"knows that you don't" |
 
-> 全部 ≤ 60 字符，禁用词扫描："amazing / shocking / unbelievable" 均未出现 ✓
+### 推荐 A/B 测试策略
+
+| 阶段 | 标题选择 | 理由 |
+|---|---|---|
+| 首发 | **B 款** | 算法推荐流量最强；与缩略图 Set B "YOUR GARDEN THINKS." 同步 |
+| 48h 内 CTR < 5% | 切到 **A 款** | 转向搜索流量兜底 |
+| 若标题党感太重 | 切到 **C 款** | 用"50 词 / 科学家"建立信任 |
 
 ---
 
